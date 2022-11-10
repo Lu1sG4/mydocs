@@ -1,0 +1,9 @@
+site_name: MyDocs
+
+
+nav:
+  - Home: index.md
+  - Links: links.md
+
+theme:
+  name: readthedocs
