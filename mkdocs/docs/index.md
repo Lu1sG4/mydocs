@@ -1,6 +1,6 @@
 # Home
 
-Everything in one place
+Everything in one place!
 
 ## Github Repos
 
