@@ -32,7 +32,7 @@
 
 ### Kubernetes
 
-[Rancher Testumgebung](https://rancher-test.claas.com) | [CLAAS registry](registry.claas.com)
+[Rancher Testumgebung](https://rancher-test.claas.com) | [CLAAS registry](https://registry.claas.com)
 
 ---
 
