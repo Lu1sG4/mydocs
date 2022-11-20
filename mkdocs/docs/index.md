@@ -9,10 +9,10 @@ Everything in one place.
 [Youtube](https://www.youtube.com) <br>
 [Netflix](https://www.netflix.com) <br>
 [GMX](https://www.gmx.de) <br>
+[GitHub](https://www.github.com/lu1sg4) <br>
 
 ## Github Repos
 
-[Lu1sG4](https://github.com/Lu1sG4) <br>
 [mydocs](https://github.com/Lu1sG4/mydocs) <br>
 [Doppelkopfcalculator](https://github.com/Lu1sG4/doppelkopfcalculator) <br>
 [TicTacToe](https://github.com/Lu1sG4/tictactoe) <br>
