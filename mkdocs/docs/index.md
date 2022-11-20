@@ -2,6 +2,14 @@
 
 Everything in one place.
 
+## Quick access
+
+[Dashboard](about:home) <br>
+[Google](https://www.google.com) <br>
+[Youtube](https://www.youtube.com) <br>
+[Netflix](https://www.netflix.com) <br>
+[GMX](https://www.gmx.de) <br>
+
 ## Github Repos
 
 [Lu1sG4](https://github.com/Lu1sG4) <br>
