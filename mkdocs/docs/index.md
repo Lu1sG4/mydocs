@@ -8,6 +8,9 @@ Everything in one place.
 [Google](https://www.google.com) <br>
 [Youtube](https://www.youtube.com) <br>
 [Netflix](https://www.netflix.com) <br>
+[Reddit](https://www.reddit.com) <br>
+[Instagram](https://www.instagram.com) <br>
+[Twitter](https://www.twitter.com) <br>
 [GMX](https://www.gmx.de) <br>
 [GitHub](https://www.github.com/lu1sg4) <br>
 
