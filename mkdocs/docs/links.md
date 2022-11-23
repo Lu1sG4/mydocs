@@ -12,6 +12,8 @@
 
 ### [DHBW IT OneDrive](https://onedrive.live.com/?authkey=%21AFifxqrDzoP4tWE&id=89B32104A323E3A8%21742&cid=89B32104A323E3A8)
 
+### [Studierendenportal](https://www.dhbw-stuttgart.de/studierendenportal/informatik/aktuelles-termine/)
+
 ---
 
 ## CLAAS General
