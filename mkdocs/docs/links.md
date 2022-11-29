@@ -12,6 +12,8 @@
 
  [Studierendenportal](https://www.dhbw-stuttgart.de/studierendenportal/informatik/aktuelles-termine/) <br>
  [Vorlesungsplan](https://rapla.dhbw-stuttgart.de/rapla?key=txB1FOi5xd1wUJBWuX8lJrog1ZNPBrE7IVuW7j2dZDrxsIv5OFi7lcUXIX8MQuuM) <br>
+ [Moodle](https://elearning.dhbw-stuttgart.de/moodle/) <br>
+ 
  [DHBW IT OneDrive](https://onedrive.live.com/?authkey=%21AFifxqrDzoP4tWE&id=89B32104A323E3A8%21742&cid=89B32104A323E3A8) <br>
 
 ---
